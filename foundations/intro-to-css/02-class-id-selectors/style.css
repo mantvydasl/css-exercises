@@ -2,3 +2,8 @@
     background-color: rgb(100%, 53%, 55%);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
+
+#large-blue-text {
+    color: hsl(240, 100%, 30%);
+    font-size: 36px;
+}
