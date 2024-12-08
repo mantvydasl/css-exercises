@@ -23,6 +23,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   padding: 30px;
+  gap: 30px;
 }
 
 .icon {
