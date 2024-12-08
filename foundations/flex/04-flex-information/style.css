@@ -24,7 +24,7 @@ img {
   gap: 52px;
 }
 
-.one, .two, .three, .four {
+.info {
   max-width: 200px;
   display: flex;
   flex-direction: column;
