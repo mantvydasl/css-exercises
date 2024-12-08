@@ -8,15 +8,10 @@ img {
   height: 100px;
 }
 
-.title_container {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 32px;
-}
-
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
 
 .plants {
