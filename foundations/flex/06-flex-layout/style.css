@@ -62,3 +62,8 @@ ul.left-links, ul.right-links {
   align-items: center;
   gap: 10px;
 }
+
+a {
+  color: #666;
+  text-decoration: none;
+}
