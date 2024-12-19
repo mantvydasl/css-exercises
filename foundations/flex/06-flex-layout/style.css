@@ -57,4 +57,5 @@ ul.left-links, ul.right-links {
   display: flex;
   flex-direction: column;
   align-self: center;
+  align-items: center;
 }
