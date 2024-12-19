@@ -46,7 +46,7 @@ ul {
   list-style-type: none
 }
 
-.header.left-links, .header.right-links {
+ul.left-links, ul.right-links {
   display: flex;
   align-items: center;
 }
