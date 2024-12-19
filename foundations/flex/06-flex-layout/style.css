@@ -50,6 +50,7 @@ ul.left-links, ul.right-links {
   display: flex;
   align-items: center;
   gap: 10px;
+  padding: 0px;
 }
 
 .content {
