@@ -51,6 +51,7 @@ ul.left-links, ul.right-links {
   align-items: center;
   gap: 10px;
   padding: 0px;
+  margin: 0px;
 }
 
 .content {
