@@ -37,3 +37,8 @@ input {
 ul {
   list-style-type: none
 }
+
+.header.left-links, .header.right-links {
+  display: flex;
+  align-items: center;
+}
