@@ -45,6 +45,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  gap: 20px;
 }
 
 .content {
