@@ -44,6 +44,7 @@ body {
 .cards_container {
   display: flex;
   flex-wrap: wrap;
+  padding: 48px;
 }
 
 .content {
