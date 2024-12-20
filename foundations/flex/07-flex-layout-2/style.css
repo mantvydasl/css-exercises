@@ -62,3 +62,7 @@ a {
 li {
   margin-bottom: 16 px;
 }
+
+ul {
+  list-style-type: none;
+}
